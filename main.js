@@ -1,6 +1,6 @@
 const modal = document.getElementById("myModal");
 const btn = document.getElementById("myBtn");
-const span = document.getElementsByClassName("close")[0];
+const span = document.getElementsByClassName("modal__close")[0];
 
 
 btn.addEventListener("click", () => {
